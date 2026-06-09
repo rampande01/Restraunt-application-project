@@ -15,6 +15,11 @@ npm run serve
 npm run build
 ```
 
+### Run Json Server
+```
+json-server --watch db.json
+```
+
 ### Lints and fixes files
 ```
 npm run lint
