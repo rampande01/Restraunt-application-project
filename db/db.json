@@ -1,0 +1,96 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "ram@test",
+      "password": "1234"
+    },
+    {
+      "name": "Roy",
+      "contact": 1444557791,
+      "address": "New Delhi",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Roy",
+      "contact": 1444557791,
+      "address": "New Delhi"
+    },
+    {
+      "name": "Troy",
+      "contact": 1342557791,
+      "address": "UK",
+      "id": 4
+    },
+    {
+      "name": "ram",
+      "email": "ram@123",
+      "password": "ram1234",
+      "id": 5
+    },
+    {
+      "name": "ram",
+      "email": "ram@123",
+      "password": "ram1234",
+      "id": 6
+    },
+    {
+      "name": "dgs",
+      "email": "gsdg@fafaf",
+      "password": "dadadads",
+      "id": 7
+    },
+    {
+      "name": "ram",
+      "email": "ram@test",
+      "password": "ram123",
+      "id": 8
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "ramrestro",
+      "contact": "11111",
+      "address": "kathmandu"
+    },
+    {
+      "name": "Roy",
+      "contact": 1444557791,
+      "address": "New Delhi",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Roy",
+      "contact": 1444557791,
+      "address": "New Delhi"
+    },
+    {
+      "name": "Troy",
+      "contact": 1342557791,
+      "address": "UK",
+      "id": "4"
+    },
+    {
+      "name": "StarBucks",
+      "contact": "4545445454",
+      "address": "Cannought place , New Delhi",
+      "id": "5"
+    },
+    {
+      "name": "H&M",
+      "contact": "303030303540",
+      "address": "Ghaziabad ,Uttar Pradesh",
+      "id": "6"
+    },
+    {
+      "name": "Chef kimchong",
+      "contact": "131314552",
+      "address": "Cannought place , New Delhi",
+      "id": "8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
